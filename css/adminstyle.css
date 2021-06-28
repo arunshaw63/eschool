@@ -1,0 +1,13 @@
+.navbar-brand{
+    font-family: 'ubuntu',sans-serif;
+    font-size: 2em;
+    font-weight: bold;
+    color:#fff;
+}
+/* Plus button fotr adding new user  */
+.box{
+    position:fixed;
+    bottom:10px;
+    right:20px;
+    margin-bottom: 30px;
+}
